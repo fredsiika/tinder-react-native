@@ -1,11 +1,12 @@
 <h1 align="center">
 <img
-		width="250"
-		alt="Tinder Clone - React Native"
-		src="https://github.com/stevenpersia/tinder-react-native/blob/master/preview/tinder-clone-logo.gif">
+		width="100"
+     		style="object-fit: contain;"
+		alt="Yurdle Anime Dating App - React Native"
+		src="https://1000logos.net/wp-content/uploads/2018/07/tinder-logo.png">
 </h1>
 <h3 align="center">
-	Tinder Clone - React Native
+	Yurdle Anime Dating App - React Native
 </h3>
 
 <p align="center">
@@ -128,8 +129,7 @@ Feel free to contribute on this repository. If my work helps you, please give me
 <!-- prettier-ignore -->
 <table>
   <tr>
-<td align="center"><a href="http://Skibudsapp.com"><img src="https://avatars3.githubusercontent.com/u/25047763?v=4" width="100px;" alt="Stephen Phillips"/><br /><sub><b>Stephen Phillips</b></sub></a><br /><a href="#question-Sbphillips19" title="Answering Questions">💬</a></td>
-<td align="center"><a href="https://github.com/anand9"><img src="https://avatars3.githubusercontent.com/u/638590?v=4" width="100px;" alt="Anand Vasudevan "/><br /><sub><b>Anand Vasudevan </b></sub></a><br /><a href="https://github.com/stevenpersia/tinder-react-native/commits?author=anand9" title="Code">💻</a></td>
+<td align="center"><a href="http://fredsiika.com"><img src="https://github.com/fredsiika.png" width="100px;" alt="Fred Siika"/><br /><sub><b>Fred Siika</b></sub></a><br /><a href="#question-Sbphillips19" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
